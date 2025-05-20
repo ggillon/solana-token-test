@@ -1,1 +1,5 @@
-
+{
+  "name": "Test Collection",
+  "description": "Description of test collection",
+  "image": "https://news.harvard.edu/wp-content/uploads/2023/11/dog_brains_2500.png"
+}
